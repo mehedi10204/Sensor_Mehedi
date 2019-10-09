@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sensor_Mehedi</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title_activity_map">Map</string>
+    <string name="normal_map">normal_map</string>
+    <string name="hybrid_map">hybrid_map</string>
+    <string name="satellite_map">satellite_map</string>
+    <string name="terrain_map">terrain_map</string>
+</resources>

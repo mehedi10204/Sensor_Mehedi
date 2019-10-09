@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation view">
+
+    <group android:checkableBehavior="single">
+        <item android:title="home"
+            android:icon="@drawable/ic_home"
+            android:id="@+id/homeid">
+        </item>
+        <item
+            android:id="@+id/accelerometer"
+            android:icon="@drawable/ic_ac"
+            android:title="Accelerometer activity" />
+        <item
+            android:id="@+id/gyroscope"
+            android:icon="@drawable/ic_gyro"
+            android:title="Gyroscope activity" />
+        <item
+            android:id="@+id/proximity"
+            android:icon="@drawable/ic_prox"
+            android:title="Proximity activity" />
+        <item
+            android:id="@+id/shake"
+            android:icon="@drawable/ic_shak"
+            android:title="Shake detection activity" />
+        <item
+            android:id="@+id/map"
+            android:icon="@drawable/ic_map"
+            android:title="Map activity" />
+        <item
+            android:id="@+id/data"
+            android:icon="@drawable/ic_data"
+            android:title="History activity" />
+
+
+
+    </group>
+
+</menu>
